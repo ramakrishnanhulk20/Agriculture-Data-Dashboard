@@ -51,6 +51,10 @@ Feel free to contact me for the actual .ipbx file in case you have Power BI and 
 Below is a preview of the dashboard,
 <img width="1322" height="747" alt="powerbi" src="https://github.com/user-attachments/assets/7c59feb1-cb64-434d-a4cb-2f67b553ef63" />
 
+If you wanna address any issues or improvements, feel free to raise them via GitHub.
+
+Thanks!
+
 
 
 
