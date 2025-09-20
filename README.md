@@ -15,12 +15,8 @@ Step 1:
 Step 2:
 
             Open any Python IDE ( VS Code Recommended )
-            Download agri.ipnb or agri.py file from above, of your choice,
+            Download agri.py file from above,
                 
-                    In case you don't know, 
-                      .ipnb - is a Python notebook file
-                      .py   - normal Python file
-
 Make sure to put the path of the sample_data file in ( pd.read_csv(r"file_path") ).
 
 Step 3:    
