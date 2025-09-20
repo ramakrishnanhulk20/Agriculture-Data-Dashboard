@@ -6,7 +6,7 @@ Requirements:
    2. Power BI
    3. MySQL
 
-Note: If you want to see only the Dashboard, skip the steps below and go to the step 
+Note: If you want to see only the Dashboard, skip the steps below and go to the step 5
 
 Step 1: 
             
