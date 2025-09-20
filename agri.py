@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-agri = pd.read_csv(r"C:\Users\levih\Downloads\ICRISAT-District Level Data - ICRISAT-District Level Data.csv")
+agri = pd.read_csv(r"<copy the downloaded sample file path and paste here>")
 agri
 
 # %%
@@ -268,7 +268,7 @@ plt.show()
 
 from sqlalchemy import create_engine
 
-engine = create_engine("mysql+pymysql://root:4122@localhost:3306/agri_data")
+engine = create_engine("mysql+pymysql://<user_name>:<password>@localhost:3306/agri_data")
 
 with engine.connect() as conn:
     print("successfull!")
@@ -279,6 +279,7 @@ with engine.connect() as conn:
 agri.to_sql("agriculture_data", con= engine, if_exists= "replace", index=False)
 
 # %%
+
 
 
 
