@@ -10,7 +10,7 @@ Note: If you want to see only the Dashboard, skip the steps below and go to the 
 
 Step 1: 
             
-            Download the data file ( ICRISAT-District Level Data - ICRISAT-District Level Data.csv ) from above.
+            Download the sample_data file from the above Google Drive link.
             
 Step 2:
 
@@ -20,6 +20,8 @@ Step 2:
                     In case you don't know, 
                       .ipnb - is a Python notebook file
                       .py   - normal Python file
+
+Make sure to put the path of the sample_data file in ( pd.read_csv(r"file_path") ).
 
 Step 3:    
             Open any one of the Python files ( agri.ipnd recommended ) for easier reading of the code.
