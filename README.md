@@ -10,7 +10,7 @@ Note: If you want to see only the Dashboard, skip the steps below and go to the 
 
 Step 1: 
             
-            Download the sample_data file from the above Google Drive link.
+            Download the sample_data file from the above.
             
 Step 2:
 
