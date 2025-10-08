@@ -25,16 +25,17 @@ Run the command below on your terminal.
 Make sure to put the path of the sample_data file in ( pd.read_csv(r"file_path") ).
 
 ## Step 3:    
-            Open any one of the Python files ( agri.ipnd recommended ) for easier reading of the code.
-            Here I have done the EDA( Exploratory Data Analysis ) part, like,
-                     
-                    Make sure it doesn't have any null values.
-                    Performed some Analysis of the data using Seaborn and matplotlib
+Open any one of the Python files ( agri.ipnd recommended ) for easier reading of the code.
+Here I have done the EDA( Exploratory Data Analysis ) part, like,
+Make sure it doesn't have any null values.
+Performed some Analysis of the data using Seaborn and matplotlib
 
 ## Step 4:
-            After done with the EDA part, we import the data into MySQL database using SQLAlchemy.
-            Open MySQL Workbench, download, and import the .sql file from above.
-            Here you can find SQL queries regarding the data for some crucial insights
+After done with the EDA part, we import the data into MySQL database using SQLAlchemy.
+
+Open MySQL Workbench, download, and import the .sql file from above.
+
+Here you can find SQL queries regarding the data for some crucial insights
             
 Change the password type in MySQL to standard incase if you get a connection error. Below is a preview,
 
