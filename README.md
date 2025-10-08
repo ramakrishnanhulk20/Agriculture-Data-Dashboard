@@ -46,7 +46,7 @@ to
 
 
 ## Step 5:
-            For the dashboard, you can paste the link below into any one of the browsers of your choice.
+For the dashboard, you can paste the link below into any one of the browsers of your choice.
 
             https://app.powerbi.com/view?r=eyJrIjoiM2U1ZDA0OTktNzgxYi00OWFkLTljMTQtOWM3OTdlYzQ4N2M4IiwidCI6ImE4YWY5NGE1LThhZWQtNDdjOC1iNzFhLTVlZjM5MmY5OGE1NSJ9&embedImagePlaceholder=true
 
